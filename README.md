@@ -1,4 +1,4 @@
-Tain correct motion blur model:
+**Tain correct motion blur model:**/n
   File placement：
     Tain_hr(The file input HR image)
     Tain_lr(The file input LR image)
