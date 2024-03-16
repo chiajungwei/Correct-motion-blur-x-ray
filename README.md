@@ -13,7 +13,7 @@ Predict the correct motion blur model
 
 
 Test recognition result
-    use the CNN_for_ESRGAN
+    use the CNN_for_ESRGAN.py
 
 Weight provide
   ESRGAN：https://drive.google.com/drive/folders/1Yfune8oilz5U9OD2hnZigUudAZ2SKwd4?usp=sharing
