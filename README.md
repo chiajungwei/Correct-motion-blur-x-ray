@@ -10,8 +10,9 @@
 **Predict the correct motion blur model：**  
     test (The file input test image)  
     outputgan (The file automatically generates the correct image)  
-    scanf(python pred.py)
-    
+    ```
+    python pred.py
+    ```
 **Test recognition result:**  
     use the CNN_for_ESRGAN.py  
 
