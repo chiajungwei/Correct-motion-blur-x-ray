@@ -1,3 +1,12 @@
+**Generate motion blur image:**
+  motion_blur file
+  File placement：  
+    input_image(Input HR image)  
+    output_image(Generates LR image)  
+    ```
+    python motion_blur.py   
+    ```   
+
 **Tain correct motion blur model:**  
   File placement：  
     Tain_hr(The file input HR image)  
