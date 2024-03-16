@@ -11,6 +11,7 @@
     ```
     python pred.py  
     ```  
+
 **Test recognition result:**  
     use the CNN_for_ESRGAN.py  
 
