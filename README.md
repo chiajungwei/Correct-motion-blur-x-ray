@@ -4,7 +4,7 @@
     input_image(Input HR image)  
     output_image(Generates LR image)  
     ```
-    python motion_blur.py   
+    python blur_image.py   
     ```   
 
 **Tain correct motion blur model:**  
