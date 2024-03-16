@@ -1,6 +1,6 @@
 Tain Correct motion blur model:
   File placement：
-    Tain_hr(The file imput HR image)
+    Tain_hr(The file input HR image)
     Tain_lr(The file imput LR image)
     val_hr (The file imput HR image)
     val_lr (The file imput LR image)
