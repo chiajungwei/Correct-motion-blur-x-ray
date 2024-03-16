@@ -9,10 +9,10 @@
 
 **Tain correct motion blur model:**  
   File placement：  
-    Tain_hr(The file input HR image)  
-    Tain_lr(The file input LR image)  
-    val_hr (The file input HR image)  
-    val_lr (The file input LR image)  
+    Tain_hr(Input HR image)  
+    Tain_lr(Input LR image)  
+    val_hr (Input HR image)  
+    val_lr (Input input LR image)  
     ```
     python convert.py   
     ```  
