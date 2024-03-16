@@ -10,6 +10,7 @@
     ```
     python main.py
     ```  
+
 **Predict the correct motion blur model：**  
     test (The file input test image)  
     outputgan (The file automatically generates the correct image)  
