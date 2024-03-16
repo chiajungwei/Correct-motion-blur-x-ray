@@ -10,7 +10,7 @@
     outputgan (The file automatically generates the correct image)  
     ```
     python pred.py  
-    ```
+    ```  
 **Test recognition result:**  
     use the CNN_for_ESRGAN.py  
 
