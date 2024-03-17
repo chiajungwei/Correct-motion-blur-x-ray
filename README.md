@@ -12,7 +12,7 @@
     Tain_hr(Input HR image)  
     Tain_lr(Input LR image)  
     val_hr (Input HR image)  
-    val_lr (Input input LR image)  
+    val_lr (Input LR image)  
     ```
     python convert.py   
     ```  
