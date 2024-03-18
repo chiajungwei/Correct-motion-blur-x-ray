@@ -37,6 +37,6 @@
 **SIF methods (Image similarity)**  
     use the similarity_SIFT.py   
 
-**Acknowledgments**
+**Acknowledgments**  
 Code：references come from [ESRGAN](https://github.com/xinntao/ESRGAN.git) and [DeblurGan](https://github.com/KupynOrest/DeblurGAN.git)  
 Data： The public data were taken from [Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images](https://data.mendeley.com/datasets/rscbjbr9sj/3)
