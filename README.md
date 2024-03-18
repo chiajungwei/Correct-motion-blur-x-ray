@@ -6,7 +6,7 @@
     ```
     python blur_image.py   
     ```   
-
+****
 **Tain correct motion blur model:**  
   File placement：  
     Tain_hr(Input HR image)  
