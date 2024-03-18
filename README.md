@@ -38,4 +38,4 @@
     use the similarity_SIFT.py   
 
 **Acknowledgments**
-Code borrows heavily from [ESRGAN](https://github.com/xinntao/ESRGAN.git) and [DeblurGan](https://github.com/KupynOrest/DeblurGAN.git)
+references come from [ESRGAN](https://github.com/xinntao/ESRGAN.git) and [DeblurGan](https://github.com/KupynOrest/DeblurGAN.git)
