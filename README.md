@@ -1,5 +1,5 @@
 **Generate motion blur image:**  
-  motion_blur file
+  motion_blur file  
   File placement：  
     input_image(Input HR image)  
     output_image(Generates LR image)  
